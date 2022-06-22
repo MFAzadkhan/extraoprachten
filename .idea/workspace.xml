@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/afstand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brackets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizzbuzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mogenlijkheden.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textcheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afstand.php" beforeDir="false" afterPath="$PROJECT_DIR$/afstand.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -36,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
@@ -48,7 +56,8 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager" selected="Node.js.geheimschrijver.js">
@@ -60,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.geheimschrijver.js" />
         <item itemvalue="Node.js.kopmunt.js" />
+        <item itemvalue="Node.js.geheimschrijver.js" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +86,15 @@
       <workItem from="1655800604843" duration="934000" />
       <workItem from="1655801813487" duration="177000" />
       <workItem from="1655802011111" duration="4745000" />
+      <workItem from="1655879812173" duration="5371000" />
+      <workItem from="1655886488064" duration="61000" />
+      <workItem from="1655886553295" duration="159000" />
+      <workItem from="1655886717190" duration="473000" />
+      <workItem from="1655887269205" duration="88000" />
+      <workItem from="1655887363981" duration="26000" />
+      <workItem from="1655887398649" duration="190000" />
+      <workItem from="1655888216816" duration="5376000" />
+      <workItem from="1655905219317" duration="2537000" />
     </task>
     <servers />
   </component>
