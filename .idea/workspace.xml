@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/brackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fizzbuzz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mogenlijkheden.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textcheck.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/afstand.php" beforeDir="false" afterPath="$PROJECT_DIR$/afstand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brackets.js" beforeDir="false" afterPath="$PROJECT_DIR$/brackets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distance.js" beforeDir="false" afterPath="$PROJECT_DIR$/distance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textcheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/textcheck.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +92,8 @@
       <workItem from="1655887398649" duration="190000" />
       <workItem from="1655888216816" duration="5376000" />
       <workItem from="1655905219317" duration="2537000" />
+      <workItem from="1655966229470" duration="2375000" />
+      <workItem from="1655968763971" duration="773000" />
     </task>
     <servers />
   </component>
