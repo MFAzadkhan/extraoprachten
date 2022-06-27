@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/checktext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grocerylist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oxygentank.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brackets.js" beforeDir="false" afterPath="$PROJECT_DIR$/brackets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/distance.js" beforeDir="false" afterPath="$PROJECT_DIR$/distance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textcheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/textcheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mogenlijkheden.php" beforeDir="false" afterPath="$PROJECT_DIR$/mogenlijkheden.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textcheck.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +28,8 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Go File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -40,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -54,6 +62,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -66,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.kopmunt.js" />
         <item itemvalue="Node.js.geheimschrijver.js" />
+        <item itemvalue="Node.js.kopmunt.js" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +104,10 @@
       <workItem from="1655888216816" duration="5376000" />
       <workItem from="1655905219317" duration="2537000" />
       <workItem from="1655966229470" duration="2375000" />
-      <workItem from="1655968763971" duration="773000" />
+      <workItem from="1655968763971" duration="14803000" />
+      <workItem from="1656065347352" duration="4001000" />
+      <workItem from="1656150470764" duration="237000" />
+      <workItem from="1656311604933" duration="2133000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-var array = ["apple", "banana", "lemon", "mango"];
+var array = ["", "banana", "lemon", "mango"];
 var results = [];
 
 
