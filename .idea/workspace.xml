@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checktext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grocerylist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oxygentank.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance.js" beforeDir="false" afterPath="$PROJECT_DIR$/distance.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mogenlijkheden.php" beforeDir="false" afterPath="$PROJECT_DIR$/mogenlijkheden.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textcheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oxygentank.php" beforeDir="false" afterPath="$PROJECT_DIR$/oxygentank.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +100,7 @@
       <workItem from="1655968763971" duration="14803000" />
       <workItem from="1656065347352" duration="4001000" />
       <workItem from="1656150470764" duration="237000" />
-      <workItem from="1656311604933" duration="2133000" />
+      <workItem from="1656311604933" duration="3189000" />
     </task>
     <servers />
   </component>
