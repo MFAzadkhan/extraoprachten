@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/colatz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/livetime.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oxygentank.php" beforeDir="false" afterPath="$PROJECT_DIR$/oxygentank.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,7 @@
         <option value="JavaScript File" />
         <option value="Go File" />
         <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,6 +53,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -100,7 +104,7 @@
       <workItem from="1655968763971" duration="14803000" />
       <workItem from="1656065347352" duration="4001000" />
       <workItem from="1656150470764" duration="237000" />
-      <workItem from="1656311604933" duration="3189000" />
+      <workItem from="1656311604933" duration="8598000" />
     </task>
     <servers />
   </component>
