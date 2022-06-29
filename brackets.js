@@ -25,6 +25,3 @@ console.log(isBalanced("{[(])}"));
 console.log(isBalanced("{{[[(())]]}}"));
 console.log(isBalanced("{[(])}"));
 console.log(isBalanced("{[(adsd)}"));
-// console.log(isBalanced("{[(adsd)}"));
-// console.log(isBalanced("{[(adsd)}"));
-// console.log(isBalanced("{[(adsd)}"));

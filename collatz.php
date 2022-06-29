@@ -24,4 +24,3 @@ function printCollatz($n)
 
 printCollatz(1);
 
-?>

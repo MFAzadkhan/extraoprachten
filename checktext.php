@@ -41,5 +41,5 @@ echo "\nNumber of consonants : " , $constantCount;
 echo "\nNumber of spaces : " , $spacecount;
 echo "\nNumber of special characters : " , $specialcount;
 echo "\nNumber of letters : " , $letterCount;
-?>
+
 
