@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5c486-01dc-4e11-94ab-233b365e1da0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculatesurface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collatz.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoeshop.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colatz.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/livetime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculatesurface.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculatesurface.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +63,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.geheimschrijver.js">
-    <configuration name="geheimschrijver.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/geheimschrijver.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.secretwriting.js">
+    <configuration name="kopmunt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/kopmunt.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="kopmunt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/kopmunt.js" working-dir="$PROJECT_DIR$">
+    <configuration name="secretwriting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/secretwriting.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.geheimschrijver.js" />
+        <item itemvalue="Node.js.secretwriting.js" />
         <item itemvalue="Node.js.kopmunt.js" />
       </list>
     </recent_temporary>
@@ -110,7 +104,7 @@
       <workItem from="1656150470764" duration="237000" />
       <workItem from="1656311604933" duration="8598000" />
       <workItem from="1656402627788" duration="403000" />
-      <workItem from="1656403059612" duration="7346000" />
+      <workItem from="1656403059612" duration="9596000" />
     </task>
     <servers />
   </component>
